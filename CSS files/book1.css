@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+* 
+{
+    font-family: 'Source Code Pro', monospace;
+    background-color: white/*#ffe6cc*/;
+    color: #404040;
+}
+
+.cabecera    
+{
+    color: black;
+/*    text-shadow: 1px 1px 0.5px black;  */
+    font-style: bold;
+}
+
+.imagen 
+{
+    margin-top: 20px;
+    margin-left: 20px;
+}
