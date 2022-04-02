@@ -19,3 +19,14 @@
     margin-top: 20px;
     margin-left: 20px;
 }
+
+.info 
+{
+    border: 3px black solid;
+    width: 370px;
+    height: 90px;
+    background-color: lightgray;
+    margin-left: 3px;
+    border-radius: 4px;
+
+}
