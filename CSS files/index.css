@@ -22,10 +22,12 @@
 
 .info 
 {
+    background-color: lightgray;
     border: 3px black solid;
+    border-radius: 4px;
+    padding: 4px;
     width: 370px;
     height: 90px;
-    background-color: lightgray;
-    border-radius: 4px;
-
+    margin-left: 100px;
+    margin-top: 80px;
 }
