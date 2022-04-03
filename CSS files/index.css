@@ -3,14 +3,13 @@
 * 
 {
     font-family: 'Source Code Pro', monospace;
-    background-color: white/*#ffe6cc*/;
+    background-color: white;
     color: #404040;
 }
 
 .cabecera    
 {
     color: black;
-/*    text-shadow: 1px 1px 0.5px black;  */
     font-style: bold;
 }
 
